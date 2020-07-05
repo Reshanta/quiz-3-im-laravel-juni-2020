@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     Sanbercode
                 </div>
+                <div>
+                <img src="{{asset('images/quis.png')}}">
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
